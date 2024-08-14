@@ -1,4 +1,4 @@
-# ecommerce-upgrad
+# ecommerce-upgrad-master
 
 ## Pre-Requisites
 
